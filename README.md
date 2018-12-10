@@ -1,0 +1,2 @@
+# Othello
+IUT project Othello
